@@ -1,32 +1,40 @@
-# Personal Portfolio Website
+# Chirag Bhayal's Portfolio
 
 ## Overview
-This is a **Personal Portfolio Website** built using HTML, CSS, and JavaScript. The website showcases the developer's skills, projects, and contact information.
+Welcome to my **personal portfolio website**! This website showcases my skills, projects, and professional journey. It includes sections about me, my skills, services, and ways to contact me.
+
+## Live Website
+🔗 **Visit my portfolio:** [https://bhayal07.github.io/My_Portfolio/](https://bhayal07.github.io/My_Portfolio/)
 
 ## Features
-- **Fully Responsive**: Works seamlessly on all devices.
-- **Smooth Navigation**: Sticky navigation bar with smooth scrolling.
-- **Dynamic Effects**: Includes animations and interactive elements.
-- **Contact Form**: Users can send messages directly.
-- **Social Media Links**: Easy access to various platforms.
+- **Fully Responsive**: Works on all devices.
+- **Interactive UI**: Modern and clean design.
+- **Skills Showcase**: Highlights my programming and design expertise.
+- **Project Display**: Features my past work and accomplishments.
+- **Contact Form**: Allows users to reach out to me directly.
 
 ## File Structure
-- `index.html` - Main structure of the portfolio.
-- `style.css` - Styling for the website.
-- `script.js` - JavaScript functionality for interactivity.
+- `index.html` - Main structure of the website.
+- `style.css` - Stylesheet for the website.
+- `script.js` - JavaScript for interactive elements.
 
-
-## Usage
-1. Open `index.html` in any browser.
-2. Modify `style.css` and `script.js` for customization.
+## Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Bhayal07/My_Portfolio.git
+   ```
+2. Open the `index.html` file in your browser.
 
 ## Technologies Used
-- **HTML** - Structure of the webpage.
+- **HTML** - Structure of the website.
 - **CSS** - Styling and layout.
-- **JavaScript** - Interactive elements.
+- **JavaScript** - Interactive functionalities.
 
-## Contributing
-Feel free to fork this project and submit pull requests.
+## How to Contribute
+If you’d like to contribute:
+1. Fork the repository.
+2. Make your changes.
+3. Submit a pull request.
 
 ## License
 This project is licensed under the MIT License.
