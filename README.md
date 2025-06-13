@@ -4,7 +4,7 @@
 Welcome to my **personal portfolio website**! This website showcases my skills, projects, and professional journey. It includes sections about me, my skills, services, and ways to contact me.
 
 ## Live Website
-🔗 **Visit my portfolio:** [https://bhayal07.github.io/My_Portfolio/](https://bhayal07.github.io/My_Portfolio/)
+🔗 **Visit my portfolio:** https://chiragbhayal.github.io/My_Portfolio/
 
 ## Features
 - **Fully Responsive**: Works on all devices.
